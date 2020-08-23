@@ -20,4 +20,7 @@ function smallestCommons(arr) {
       }
     }
   }
+
+
+
   
